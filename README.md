@@ -56,16 +56,17 @@ ans :0#It is not additive number.
 
 ## Usage
 md_3-1.cpp
-step
+Step1.
 $ g++ md_3-1.cpp  -o md_3-1
-step2.
+
 Step2.
 $ ll
 Step3.
 $ ./md_3-1
 
 md_3-2.py
-step
+Step.
 python md_3-2.py
+
 
 Applets
