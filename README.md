@@ -17,17 +17,16 @@ $ ./first
 
 Step4.
 Enter some characters 
-wqrert
-rl
+$ wqrert
+$ rl
 Found at index : 2
-step5.
-wqrert
-
-wl
+Step5.
+$ wqrert
+$ wl
 Found at index : 0
-step6.
-wqrert
-ss
+Step6.
+$ wqrert
+$ ss
 Found at index : -1
 
 
@@ -44,14 +43,14 @@ Step3.
 $ ./md_2
 
 Step4.
-123
+$ 123
 ans:1#It is additive number.
 
 step5.
-123446
+$ 123446
 ans:1#It is additive number.
 step6.
-120214
+$ 120214
 ans :0#It is not additive number.
 
 ## Usage
@@ -66,7 +65,8 @@ $ ./md_3-1
 
 md_3-2.py
 Step.
-python md_3-2.py
+$ python md_3-2.py
+
 
 
 Applets
