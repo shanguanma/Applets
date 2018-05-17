@@ -1,7 +1,9 @@
-first.cpp
+
 ## Requirements
 Ubuntu16.04
 g++
+python 3.5
+first.cpp
 ## Usage
 Step1.
 $ g++ first.cpp  -o first
@@ -25,9 +27,7 @@ ss
 Found at index : -1
 
 md_2.cpp
-## Requirements
-Ubuntu16.04
-g++
+
 ## Usage
 Step1.
 $ g++ md_2.cpp  -o md_2
@@ -52,5 +52,18 @@ e.g.
 ans :0#It is not additive number.
 
 
-# mygit
-# Applets
+md_3-1.cpp
+## Requirements
+Ubuntu16.04
+g++
+
+3-1
+
+e.g.
+nums=[1,2,31,38] n=233454
+ans=15
+
+
+md_3-2.py
+python md_3-2.py
+o # Applets
